@@ -1,3 +1,3 @@
-# OpenGLRayTracing # OpenGLRayTracing
-# OpenGLRayTracing # OpenGLRayTracing
 # OpenGLRayTracing
+
+Attempting to redo Raytracing in C++ and OpenGL
