@@ -44,7 +44,8 @@ add_executable(rt
     src/Light.cpp
     src/Factory.cpp
     src/Parse.cpp
-    src/Loop.cpp)
+    src/Loop.cpp
+    src/Calculate.cpp)
 
 find_package (OpenGL REQUIRED)
 target_link_libraries (rt ${OPENGL_LIBRARIES})

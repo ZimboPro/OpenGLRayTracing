@@ -23,7 +23,7 @@ Parse::~Parse() {}
 Parse & Parse::operator=(Parse const & src) {
 	if (this != &src)
     {
-	*this = src;
+		*this = src;
     }
 	return (*this);
 }
